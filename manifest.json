@@ -1,5 +1,5 @@
 {
 	"clear": "(time-range)",
-	"transmit": null,
+	"transmit": true,
 	"stop-engine": null
 }
